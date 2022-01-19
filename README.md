@@ -211,7 +211,6 @@ git clone --depth 1 https://github.com/voxel51/fiftyone.git
 cd fiftyone
 bash install.bash
 ```
-
 ### Generating documentation
 
 See the
